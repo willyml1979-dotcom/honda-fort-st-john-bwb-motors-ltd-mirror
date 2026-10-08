@@ -1,6 +1,6 @@
 {
   "dealership": "Honda Fort St John Bwb Motors Ltd",
-  "generated_at": "2026-09-26T21:51:02",
+  "generated_at": "2026-10-08T14:37:54",
   "vehicle_count": 30,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -16,7 +16,9 @@
       "price": 10786.0,
       "price_currency": "CAD",
       "odometer_km": 168203,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2015 GMC Terrain",
@@ -29,7 +31,9 @@
       "price": 14892.0,
       "price_currency": "CAD",
       "odometer_km": 89858,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2015 Jeep Cherokee",
@@ -42,7 +46,9 @@
       "price": 14894.0,
       "price_currency": "CAD",
       "odometer_km": 143159,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2016 Dodge Journey",
@@ -55,7 +61,9 @@
       "price": 11997.0,
       "price_currency": "CAD",
       "odometer_km": 144294,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2016 Honda Civic Coupe",
@@ -68,7 +76,9 @@
       "price": 22298.0,
       "price_currency": "CAD",
       "odometer_km": 67598,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2019 Buick Encore",
@@ -81,7 +91,9 @@
       "price": 20876.0,
       "price_currency": "CAD",
       "odometer_km": 81523,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2020 Honda CR-V",
@@ -94,7 +106,9 @@
       "price": 31786.0,
       "price_currency": "CAD",
       "odometer_km": 79625,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2021 Ford Explorer",
@@ -107,7 +121,9 @@
       "price": 33478.0,
       "price_currency": "CAD",
       "odometer_km": 98322,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2021 Honda Civic Sedan",
@@ -120,7 +136,9 @@
       "price": 26897.0,
       "price_currency": "CAD",
       "odometer_km": 70862,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2022 Buick Envision",
@@ -133,7 +151,9 @@
       "price": 27984.0,
       "price_currency": "CAD",
       "odometer_km": 101605,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2022 Honda Odyssey",
@@ -146,7 +166,9 @@
       "price": 35987.0,
       "price_currency": "CAD",
       "odometer_km": 106162,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2022 Ram 1500 Classic",
@@ -159,7 +181,9 @@
       "price": 34786.0,
       "price_currency": "CAD",
       "odometer_km": 28744,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2023 Hyundai Tucson Plug-In Hybrid",
@@ -172,7 +196,9 @@
       "price": 36974.0,
       "price_currency": "CAD",
       "odometer_km": 69485,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2024 Honda Civic Sedan",
@@ -185,7 +211,9 @@
       "price": 29786.0,
       "price_currency": "CAD",
       "odometer_km": 73073,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "Used2025 Hyundai Elantra",
@@ -198,7 +226,9 @@
       "price": 24291.0,
       "price_currency": "CAD",
       "odometer_km": 29964,
-      "condition": "used"
+      "condition": "used",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2026 Honda Civic Sedan",
@@ -210,7 +240,9 @@
       "last_verified": "2026-09-26T21:48:55",
       "price": 30470.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2026 Honda Civic Sedan",
@@ -222,7 +254,9 @@
       "last_verified": "2026-09-26T21:49:05",
       "price": 34430.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2026 Honda Civic Sedan",
@@ -234,7 +268,9 @@
       "last_verified": "2026-09-26T21:49:14",
       "price": 34430.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2026 Honda Civic Sedan",
@@ -246,7 +282,9 @@
       "last_verified": "2026-09-26T21:49:23",
       "price": 34580.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2026 Honda Civic Sedan",
@@ -258,7 +296,9 @@
       "last_verified": "2026-09-26T21:49:33",
       "price": 30720.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2026 Honda Civic Sedan Hybrid",
@@ -270,7 +310,9 @@
       "last_verified": "2026-09-26T21:49:41",
       "price": 36480.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2026 Honda CR-V",
@@ -282,7 +324,9 @@
       "last_verified": "2026-09-26T21:49:49",
       "price": 45925.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2026 Honda CR-V",
@@ -294,7 +338,9 @@
       "last_verified": "2026-09-26T21:49:57",
       "price": 41775.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2027 HONDA CR-V",
@@ -306,7 +352,9 @@
       "last_verified": "2026-09-26T21:50:06",
       "price": 46525.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2027 HONDA CR-V",
@@ -318,7 +366,9 @@
       "last_verified": "2026-09-26T21:50:16",
       "price": 45975.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2027 Honda HR-V",
@@ -330,7 +380,9 @@
       "last_verified": "2026-09-26T21:50:25",
       "price": 38400.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2027 Honda HR-V",
@@ -342,7 +394,9 @@
       "last_verified": "2026-09-26T21:50:32",
       "price": 35650.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2027 Honda HR-V",
@@ -354,7 +408,9 @@
       "last_verified": "2026-09-26T21:50:41",
       "price": 41750.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2027 Honda HR-V",
@@ -366,7 +422,9 @@
       "last_verified": "2026-09-26T21:50:49",
       "price": 38950.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     },
     {
       "name": "New2027 Honda HR-V",
@@ -378,7 +436,9 @@
       "last_verified": "2026-09-26T21:50:56",
       "price": 35650.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
     }
   ]
 }
