@@ -1,7 +1,7 @@
 {
   "dealership": "Honda Fort St John Bwb Motors Ltd",
-  "generated_at": "2026-10-25T23:15:18",
-  "vehicle_count": 36,
+  "generated_at": "2026-10-25T23:18:29",
+  "vehicle_count": 37,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -227,6 +227,14 @@
       "url": "https://willyml1979-dotcom.github.io/honda-fort-st-john-bwb-motors-ltd-mirror/new/5ce48716d7ee.html",
       "condition": "new",
       "price": 42925.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027 Honda CR-V",
+      "vin": "2HKRS4H57VH102463",
+      "url": "https://willyml1979-dotcom.github.io/honda-fort-st-john-bwb-motors-ltd-mirror/new/969ae9ac41e9.html",
+      "condition": "new",
+      "price": 45975.0,
       "price_currency": "CAD"
     },
     {
